@@ -1,0 +1,7 @@
+﻿Input,Winner,Loser,m:M1,m:M2,m:M3,m:M4,f:F1,f:F2,f:F3,f:F4
+I1,W1,L1,L,,,,W,W,,
+I2,W2,L2,L,,,,W,,W,
+I3,W3,L3,L,,,,W,,,W
+I4,W4,L4,,L,L,L,,W,W,
+I5,W5,L5,,L,L,L,,W,,W
+I6,W6,L6,,L,L,L,,,W,W

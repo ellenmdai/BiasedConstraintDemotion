@@ -1,0 +1,16 @@
+﻿Input,Output,Optimal,f:Don'tDelete,f:Don'tInsert,f:BeIdentical,m:AgreePlace,m:Onset
+/anpa/,anpa,,0,0,0,1,1
+/anpa/,ampa,,0,0,1,0,1
+/anpa/,anapa,,0,1,0,0,1
+/anpa/,ana,,1,0,0,0,1
+/anpa/,apa,,1,0,0,0,1
+/anpa/,npa,,1,0,0,1,0
+/anpa/,mpa,,1,0,1,0,0
+/anpa/,napa,,1,1,0,0,0
+/anpa/,na,,2,0,0,0,0
+/anpa/,pa,,2,0,0,0,0
+/anpa/,tanpa,,0,1,0,1,0
+/anpa/,tampa,yes,0,1,1,0,0
+/anpa/,tanapa,,0,2,0,0,0
+/anpa/,tana,,1,1,0,0,0
+/anpa/,tapa,,1,1,0,0,0
